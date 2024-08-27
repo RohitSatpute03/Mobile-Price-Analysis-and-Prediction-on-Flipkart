@@ -1,0 +1,599 @@
+,brand,model,ram,storage,display size,display type,rear camera,front camera,price
+0,realme,c53 ,6,64,6.74,HD,108,8,10999
+2,vivo,t2x 5g ,8,128,6.58,Full HD,50,8,15999
+3,vivo,t2x 5g ,6,128,6.58,Full HD,50,8,13999
+7,vivo,t2x 5g ,4,128,6.58,Full HD,50,8,12999
+10,realme,11x 5g ,6,128,6.72,Full HD,64,8,14999
+11,realme,11x 5g ,8,128,6.72,Full HD,64,8,15999
+14,motorola,g62 5g ,8,128,6.925,Full HD,50,16,14999
+15,samsung,galaxy f13 ,4,128,6.6,Full HD,50,8,10499
+17,motorola,g32 ,8,128,6.5,Full HD,50,16,11999
+18,redmi,11 prime ,6,128,6.58,Full HD,50,8,10499
+20,samsung,galaxy f14 5g ,6,128,6.6,Full HD,50,13,13990
+21,poco,m6 pro 5g ,6,128,6.79,Full HD,50,8,12999
+22,poco,m6 pro 5g ,4,64,6.79,Full HD,50,8,10999
+52,redmi,12 ,6,128,6.79,Full HD,50,8,11499
+53,vivo,t2 5g ,6,128,6.38,Full HD,64,16,18999
+54,vivo,t2 5g ,8,128,6.38,Full HD,64,16,20999
+56,poco,x5 5g ,6,128,6.67,Full HD,48,13,14999
+59,motorola,g73 5g ,8,128,6.5,Full HD,50,16,16999
+61,samsung,galaxy m04 ,4,64,6.5,HD,13,5,11499
+62,samsung,galaxy f23 5g ,6,128,6.6,Full HD,50,8,15499
+64,realme,11 5g ,8,128,6.72,Full HD,108,16,18999
+66,realme,11 5g ,8,256,6.72,Full HD,108,16,19999
+72,google,pixel 6a ,6,128,6.245,Full HD,12,8,25999
+74,poco,m4 pro ,8,128,6.43,Full HD,64,16,12999
+75,poco,x5 pro 5g ,8,256,6.67,Full HD,108,16,21999
+76,realme,10 ,4,64,6.4,Full HD,50,16,10999
+78,samsung,galaxy m14 5g ,6,128,6.6,Display,50,50,15224
+79,infinix,hot 30 5g ,4,128,6.78,Full HD,50,8,12499
+80,infinix,hot 30 5g ,8,128,6.78,Full HD,50,8,13499
+81,redmi,12 5g ,6,128,6.79,Display,50,50,14994
+83,motorola,g62 5g ,6,128,6.55,Full HD,50,16,13999
+85,poco,m4 5g ,4,64,6.58,Full HD,50,8,10999
+86,poco,m5 ,6,128,6.58,Full HD,50,8,10499
+87,samsung,galaxy f34 5g ,6,128,6.5,Full HD,50,13,18999
+91,realme,narzo n53 ,6,128,6.74,Display,50,50,12248
+93,redmi,note 12 ,6,64,6.67,Full HD,50,13,12999
+94,realme,narzo n53 ,4,64,6.74,Display,50,50,10247
+95,samsung,galaxy f34 5g ,8,128,6.5,Full HD,50,13,20999
+98,infinix,gt10 pro ,8,256,6.67,Full HD,108,32,20999
+100,realme,narzo n53 ,6,128,6.74,Display,50,50,11575
+102,vivo,v29e 5g ,8,256,6.78,Full HD,64,50,28999
+104,vivo,v29e 5g ,8,128,6.78,Full HD,64,50,26999
+106,infinix,note 30 5g ,8,256,6.78,Full HD,108,16,15999
+107,redmi,12c ,6,128,6.71,HD,50,5,10330
+110,realme,narzo n53 ,4,64,6.74,Display,50,50,10249
+111,infinix,zero 5g 2023 ,8,128,6.78,Full HD,50,16,14999
+112,redmi,12c ,6,128,6.71,Display,50,50,10299
+114,samsung,galaxy f14 5g ,4,128,6.6,Full HD,50,13,12990
+116,redmi,12 5g ,6,128,6.79,Full HD,50,50,15754
+118,poco,m4 5g ,4,64,6.58,Full HD,50,8,11499
+119,samsung,galaxy m14 5g ,6,128,6.6,Display,50,50,15149
+121,infinix,note 30 5g ,4,128,6.78,Full HD,108,16,14999
+125,realme,10 ,8,128,6.4,Full HD,50,16,14499
+127,poco,x5 pro 5g ,6,128,6.67,Full HD,108,16,19999
+128,samsung,galaxy m14 5g ,4,128,6.6,Display,50,50,13649
+129,samsung,galaxy m14 5g ,6,128,6.6,Display,50,50,14885
+130,realme,narzo n55 ,6,128,6.72,Display,64,64,12650
+132,poco,x5 5g ,8,256,6.67,Full HD,48,13,16999
+133,motorola,edge 40 ,8,256,6.5,Full HD,50,32,29999
+134,realme,11 pro+ 5g ,12,256,6.7,Full HD,200,32,29999
+138,redmi,12 5g ,8,256,6.79,Display,50,50,17380
+141,realme,c55 ,6,64,6.72,Full HD,64,8,11999
+142,realme,c55 ,8,128,6.72,Full HD,64,8,13999
+144,realme,c55 ,4,64,6.72,Full HD,64,8,10999
+148,samsung,galaxy f23 5g ,4,128,6.6,Full HD,50,8,14499
+151,redmi,note 12 ,6,128,6.67,Full HD,50,13,14999
+152,iqoo,z6 lite 5g ,6,128,6.68,Display,50,50,15280
+153,redmi,12 5g ,4,128,6.79,Full HD,50,50,14469
+154,realme,11 pro 5g ,8,256,6.7,Full HD,100,16,24999
+155,realme,11 pro 5g ,12,256,6.7,Full HD,100,16,27999
+158,infinix,zero 30 5g ,12,256,6.78,Full HD,108,50,24999
+159,infinix,zero 30 5g ,8,256,6.78,Full HD,108,50,23999
+163,redmi,note 12 pro 5g ,6,128,6.67,Full HD,50,16,23999
+170,infinix,hot 20 5g ,4,64,6.6,Full HD,50,8,11499
+175,redmi,note 12 5g ,6,128,6.67,Full HD,48,13,18999
+177,realme,11 pro 5g ,8,128,6.7,Full HD,100,16,23999
+179,realme,10 pro 5g ,8,128,6.72,Full HD,108,16,19999
+180,realme,narzo n55 ,6,128,6.72,Display,64,64,12500
+184,redmi,12c ,6,128,6.71,Display,50,50,10650
+185,redmi,12c ,6,128,6.71,HD,50,5,9874
+186,realme,11 pro+ 5g ,8,256,6.7,Full HD,200,32,27999
+188,realme,10 pro 5g ,6,128,6.72,Full HD,108,16,16999
+194,redmi,k50i 5g ,8,256,6.6,Full HD,64,16,23999
+195,oppo,reno10 5g ,8,256,6.7,Full HD,64,32,32999
+199,redmi,note 12 5g ,8,256,6.67,Full HD,48,13,20999
+201,realme,narzo n55 ,4,64,6.72,Display,64,64,10969
+205,samsung,galaxy a14 5g ,6,128,6.6,HD,50,13,17999
+206,samsung,galaxy m14 5g ,4,128,6.6,Display,50,50,13190
+207,samsung,galaxy m14 5g ,6,128,6.6,Display,50,50,14884
+209,realme,narzo 60 5g ,8,128,6.43,Display,64,64,17999
+210,realme,narzo 60 5g ,8,128,6.43,Display,64,64,18790
+211,redmi,12 5g ,8,256,6.79,Display,50,50,17379
+212,redmi,12 5g ,8,256,6.79,Display,50,50,16685
+214,redmi,note 12 5g ,4,128,6.67,Full HD,48,13,16999
+215,realme,narzo 60 5g ,8,256,6.43,Display,64,64,20263
+216,motorola,edge 30 ,8,128,6.55,Full HD,50,32,22999
+217,oppo,a78 5g ,8,128,6.56,HD,50,8,18999
+219,poco,m4 5g ,6,128,6.58,Full HD,50,8,13499
+221,redmi,a2 ,4,64,6.52,Display,8,8,10999
+226,vivo,y56 5g ,8,128,6.58,Full HD,50,16,18999
+227,redmi,note 12 pro 5g ,8,256,6.67,Full HD,50,16,26999
+229,samsung,galaxy m34 5g ,6,128,6.5,Display,50,50,18850
+231,realme,10 pro+ 5g ,6,128,6.7,Full HD,108,16,21999
+232,iqoo,z7s 5g ,8,128,6.4,Display,64,64,20325
+233,iqoo,z7s 5g ,6,128,6.38,Display,64,64,19085
+234,iqoo,z7s 5g ,8,128,6.38,Display,64,64,20390
+235,vivo,v27 5g ,8,128,6.78,Full HD,50,50,32999
+236,vivo,y56 5g ,4,128,6.58,Full HD,50,16,17999
+244,redmi,12 5g ,4,128,6.79,Display,50,50,14390
+245,redmi,note 11 se ,6,64,6.43,Full HD,64,13,13275
+246,oppo,a17 ,4,64,6.56,HD,50,5,11999
+247,motorola,edge 30 fusion ,8,128,6.55,Full HD,50,32,34999
+248,vivo,y02t ,4,64,6.51,HD,8,5,10459
+249,vivo,y02t ,4,64,6.51,HD,8,5,10199
+250,oppo,a17 ,4,64,6.56,HD,50,5,11290
+251,poco,x4 pro 5g ,8,128,6.67,Full HD,64,16,17999
+252,realme,10 pro+ 5g ,8,128,6.7,Full HD,108,16,22999
+255,redmi,12 5g ,4,128,6.79,Display,50,50,13859
+256,redmi,12c ,4,64,6.71,Display,50,50,11999
+258,realme,narzo n53 ,6,128,6.74,Display,50,50,11840
+259,samsung,galaxy m14 5g ,6,128,6.6,Display,50,50,15097
+260,samsung,galaxy a14 5g ,4,64,6.6,HD,50,13,15999
+261,redmi,12c ,6,128,6.71,Display,50,50,10490
+262,vivo,y27 ,6,128,6.64,Full HD,50,8,14999
+264,redmi,12c ,4,64,6.71,Display,50,50,10499
+266,iqoo,neo 7 5g ,12,256,6.78,Display,64,64,33110
+267,redmi,12c ,6,128,6.71,Display,50,50,10650
+268,samsung,galaxy a54 5g ,8,256,6.4,Full HD,50,32,38999
+269,samsung,galaxy m33 5g ,8,128,6.6,Display,50,8,18389
+270,vivo,y16 ,3,64,6.51,HD,13,5,10999
+271,samsung,galaxy m04 ,4,128,6.5,HD,13,2,10380
+273,vivo,v27 5g ,12,256,6.78,Full HD,50,50,36999
+274,redmi,10 power ,8,128,6.7,Display,50,5,12789
+275,redmi,note 12 pro+ 5g ,12,256,6.67,Full HD,200,16,32999
+276,poco,m2 pro ,4,64,6.67,Full HD,48,16,12340
+277,redmi,note 10s ,6,64,6.43,Full HD,64,13,14999
+278,infinix,hot 12 pro ,8,128,6.6,HD,50,8,10999
+280,poco,f1 ,6,128,6.245,Display,12,20,14649
+281,samsung,galaxy m13 5g ,6,128,6.5,Display,50,50,14200
+282,vivo,y36 ,8,128,6.64,Full HD,50,16,15999
+283,infinix,zero 5g 2023 turbo ,8,256,6.78,Full HD,50,16,17999
+285,samsung,galaxy m33 5g ,6,128,6.59,Display,50,8,15900
+286,samsung,galaxy m13 ,4,64,6.6,Display,50,50,10780
+288,samsung,galaxy m34 5g without charger ,8,128,6.5,Display,50,50,21944
+289,redmi,12 5g ,8,256,6.79,Display,50,50,15799
+290,oppo,f21s pro ,8,128,6.43,Full HD,64,32,21999
+292,redmi,note 11 ,4,64,6.43,Display,50,50,11880
+293,redmi,note 11 ,6,64,6.43,Display,50,13,12700
+294,redmi,10 prime 2022 ,4,64,6.5,Display,50,50,11989
+295,samsung,galaxy m33 5g ,6,128,6.6,Display,50,50,16999
+296,poco,f5 5g ,12,256,6.67,Full HD,64,16,30999
+297,vivo,y75 ,8,128,6.44,Full HD,50,44,19990
+298,vivo,y16 ,4,128,6.51,HD,13,5,12499
+300,redmi,10 ,4,64,6.7,HD,50,5,10390
+301,redmi,10 prime 2022 ,4,64,6.5,Display,50,50,12290
+303,oppo,reno10 pro 5g ,12,256,6.7,Full HD,50,32,39999
+305,oppo,f23 5g ,8,256,6.72,Full HD,64,32,24999
+306,poco,f5 5g ,8,256,6.67,Full HD,64,16,27999
+307,redmi,note 11 ,6,64,6.43,Display,50,50,12699
+308,google,pixel 7 ,8,128,6.3,Full HD,50,8,49999
+309,vivo,y16 ,4,64,6.51,HD,13,5,11270
+310,xiaomi,11lite ne ,6,128,6.55,Full HD,64,20,21000
+311,vivo,t1 44w ,4,128,6.44,Full HD,50,16,14499
+313,infinix,note 12 pro ,8,256,6.7,Full HD,108,16,16999
+314,iqoo,neo 7 5g ,8,128,6.78,Display,64,64,29427
+315,samsung,galaxy m34 5g ,8,128,6.5,Display,50,50,22166
+316,motorola,g31 ,6,128,6.4,Full HD,50,13,12999
+317,vivo,y16 ,3,32,6.51,HD,13,5,11461
+318,motorola,edge 30 ultra ,12,256,6.67,Full HD,200,60,49999
+320,oppo,a78 ,8,128,6.43,Full HD,50,8,17499
+321,redmi,note 11s ,6,64,6.43,Display,108,108,13699
+322,oppo,f21s pro 5g ,8,128,6.43,Full HD,64,2,22425
+323,iqoo,neo 7 ,12,256,6.78,Full HD,64,16,32620
+324,samsung,galaxy a14 ,4,64,6.6,Full HD,50,13,13999
+325,redmi,11 prime 5g ,6,128,6.58,Display,5,5,15248
+326,iqoo,neo 7 5g ,8,128,6.78,Display,64,64,29295
+328,samsung,galaxy m13 5g ,4,64,6.5,Display,50,50,12140
+329,samsung,galaxy a03 core ,2,32,6.5,HD,8,5,10498
+330,infinix,note 12 pro 5g ,8,128,6.7,Full HD,108,16,18999
+334,redmi,10 ,4,64,6.7,HD,50,5,10999
+335,nothing,phone ,12,512,6.7,Full HD,50,32,54999
+336,redmi,note 11 se ,6,64,6.43,Full HD,64,13,13199
+340,realme,narzo 50 ,6,128,6.6,Full HD,50,16,12999
+342,samsung,galaxy m34 5g without charger ,8,128,6.5,Display,50,50,21678
+348,samsung,galaxy m34 5g without charger ,8,128,6.5,Display,50,50,21946
+353,samsung,galaxy m34 5g without charger ,6,128,6.5,Display,50,50,20496
+356,samsung,galaxy m33 5g ,6,128,6.6,Display,50,50,15894
+358,samsung,galaxy m33 5g ,6,128,6.59,Display,50,50,17490
+360,xiaomi,11x ,8,128,6.67,Display,48,48,22970
+361,redmi,note 10 lite ,6,128,6.67,Display,48,48,13990
+362,realme,xt ,4,64,6.4,Display,64,16,16999
+363,redmi,note 11 ,6,128,6.43,Display,50,50,15490
+364,redmi,note 11s ,6,64,6.43,Display,108,108,13799
+365,vivo,v27 pro 5g ,8,128,6.78,Full HD,50,50,37999
+366,vivo,y35 ,8,128,6.58,Full HD,50,16,16999
+367,vivo,y21a ,4,64,6.51,Display,13,13,12738
+368,samsung,galaxy f54 5g ,8,256,6.7,Full HD,108,32,29999
+369,poco,m3 ,6,64,6.53,Full HD,48,8,10999
+370,xiaomi,11x ,8,128,6.67,Full HD,48,20,23360
+371,xiaomi,11x ,6,128,6.67,Full HD,48,20,21888
+372,redmi,note 10 lite ,6,128,6.67,Display,48,48,13740
+374,vivo,y22 ,4,128,6.55,HD,50,8,14499
+375,oppo,a17k ,3,64,6.56,HD,8,5,10899
+378,redmi,note 12 pro 5g ,8,128,6.67,Full HD,50,16,24999
+379,vivo,t1 pro 5g ,6,128,6.44,Full HD,64,16,23999
+381,samsung,galaxy a14 5g ,8,128,6.6,HD,50,13,19999
+382,poco,m3 ,4,64,6.53,Full HD,48,8,10964
+383,vivo,y22 ,4,64,6.55,HD,50,8,14499
+397,redmi,note 12 pro 5g ,12,256,6.67,Full HD,50,16,28999
+400,realme,narzo 60 pro 5g ,8,128,6.7,Display,100,100,23766
+405,iqoo,z6 lite 5g ,6,128,6.68,Display,50,50,15998
+406,realme,narzo 50 ,4,64,6.6,Full HD,50,16,12990
+407,realme,9 5g se ,8,128,6.6,Full HD,48,16,21990
+408,vivo,t1 pro 5g ,8,128,6.44,Full HD,64,16,24999
+409,vivo,y16 ,4,64,6.51,Display,13,13,11399
+411,redmi,10a sport ,6,128,6.53,Display,13,13,10299
+412,redmi,9 activ ,6,128,6.53,HD,13,5,11480
+413,vivo,v27 pro 5g ,8,256,6.78,Full HD,50,50,39999
+414,xiaomi,11i hypercharge 5g ,8,128,6.67,Full HD,108,16,23999
+416,oppo,a57 ,4,64,6.56,HD,13,8,12754
+417,oppo,a57 ,4,64,6.56,Display,13,13,12698
+418,redmi,note 10 lite ,4,64,6.67,Display,48,48,11998
+419,poco,m4 pro 5g ,8,128,6.6,Full HD,50,16,18999
+420,realme,c33 2023 ,4,128,6.5,HD,50,5,10499
+421,redmi,10a sport ,6,128,6.53,Display,13,13,10249
+422,xiaomi,12 pro 5g ,12,256,6.73,Full HD,50,32,44999
+424,poco,m3 pro 5g ,4,64,6.5,Full HD,48,8,13498
+427,samsung,galaxy m33 5g ,6,128,6.6,Display,50,50,16270
+428,samsung,galaxy m13 ,4,64,6.6,Display,50,50,10700
+429,redmi,note 11 ,4,64,6.43,Display,50,13,11988
+432,redmi,12c ,4,128,6.71,HD,50,5,10149
+433,infinix,zero ultra ,8,256,6.8,Full HD,200,32,29999
+434,vivo,t1 44w ,8,128,6.44,Full HD,50,16,17999
+437,redmi,note 10 lite ,4,128,6.67,Display,48,48,12950
+462,redmi,11 prime 5g ,6,128,6.58,Display,5,5,14999
+463,redmi,11 prime 5g ,4,64,6.58,Display,5,5,13036
+464,samsung,galaxy m33 5g ,8,128,6.6,Display,50,50,17407
+465,samsung,galaxy m13 ,4,64,6.6,Display,50,50,10749
+467,samsung,galaxy m34 5g without charger ,6,128,6.5,Display,50,50,19478
+468,redmi,note 10s ,6,128,6.43,Full HD,64,13,16268
+469,xiaomi,11lite ne ,6,128,6.55,Full HD,64,20,21999
+470,google,pixel 7 pro ,12,128,6.7,Quad HD,50,8,70999
+471,vivo,v27 pro 5g ,12,256,6.78,Full HD,50,50,42999
+472,realme,c31 ,4,64,6.52,HD,13,5,10999
+474,google,pixel 7a ,8,128,6.245,Full HD,64,13,43999
+476,vivo,y22 ,6,128,6.55,HD,50,8,15499
+478,xiaomi,11i 5g ,8,128,6.67,Full HD,108,16,26999
+483,samsung,galaxy m53 5g ,8,128,6.7,Display,108,108,25999
+485,redmi,11 prime 5g ,6,128,6.58,Display,5,5,15798
+488,infinix,note 12 5g ,6,64,6.7,Full HD,50,16,15999
+495,samsung,galaxy m13 5g ,4,64,6.5,Display,50,50,12144
+496,vivo,y100a ,8,256,6.38,Full HD,64,16,25999
+498,vivo,y100a ,8,128,6.38,Full HD,64,16,23999
+499,redmi,note 11s ,6,128,6.43,Display,108,108,15990
+502,vivo,y100 5g ,8,128,6.38,Full HD,64,16,23999
+503,iqoo,z6 lite 5g ,6,128,6.68,Display,50,50,15249
+504,iqoo,z6 lite 5g ,6,128,6.68,Display,50,8,15280
+508,poco,m3 ,4,64,6.53,Full HD,48,8,10680
+509,vivo,y35 ,8,128,6.58,Full HD,50,16,16370
+510,samsung,galaxy s22 plus 5g ,8,128,6.6,Full HD,50,10,59999
+511,redmi,note 11 se ,6,64,6.43,Full HD,64,13,13490
+512,vivo,y53s ,8,128,6.58,Full HD,64,16,15490
+513,vivo,y15c ,3,64,6.51,HD,13,8,10989
+515,redmi,note 10s ,6,128,6.43,Full HD,64,13,16499
+516,realme,narzo 60 pro 5g ,12,256,6.7,Display,100,100,26990
+517,samsung,galaxy a34 5g ,8,256,6.6,Full HD,48,13,30999
+519,vivo,v21 5g ,8,128,6.44,Full HD,64,44,27990
+520,samsung,galaxy a23 5g ,6,128,6.6,Full HD,50,8,21999
+522,samsung,galaxy m13 5g ,4,64,6.5,Display,50,50,12498
+524,redmi,9 activ ,6,128,6.53,HD,13,5,11299
+525,motorola,g22 ,4,64,6.5,HD,50,16,11099
+527,vivo,v25 pro ,8,128,6.56,Display,64,64,27999
+528,vivo,v25 pro 5g ,12,256,6.56,Full HD,64,32,29775
+529,vivo,v25 pro 5g ,8,128,6.56,Full HD,64,32,28299
+530,vivo,v25 pro 5g ,8,128,6.56,Full HD,64,32,26490
+531,vivo,v25 pro 5g ,8,128,6.56,Full HD,64,32,28990
+532,realme,narzo 50a ,4,64,6.5,HD,50,8,11499
+534,infinix,hot 11s ,4,128,6.78,Full HD,50,8,11999
+535,redmi,note 10s ,8,128,6.43,Full HD,64,13,16790
+537,redmi,note 11s ,8,128,6.43,Display,50,50,17999
+538,vivo,v23 5g ,8,128,6.44,Full HD,64,8,29990
+539,realme,narzo 50 pro 5g ,8,128,6.4,Display,48,48,21881
+540,oppo,a96 ,8,128,6.59,Full HD,50,16,16990
+541,infinix,hot 10s ,6,64,6.82,HD,48,8,10999
+542,poco,m3 pro 5g ,4,64,6.5,Full HD,48,8,13680
+543,motorola,g40 fusion ,6,128,6.78,Full HD,64,16,19999
+544,poco,m2 pro ,6,64,6.67,Full HD,48,16,17999
+546,iqoo,neo 7 pro ,12,256,6.78,Display,50,50,41985
+547,samsung,galaxy m13 ,4,64,6.6,Display,50,50,10839
+548,realme,9i ,4,128,6.6,Full HD,50,16,13499
+549,vivo,v23 5g ,12,256,6.44,Full HD,64,8,28700
+552,nothing,phone ,8,256,6.55,Full HD,50,16,30499
+553,nothing,phone ,8,256,6.55,Full HD,50,16,29999
+554,redmi,note 10s ,6,64,6.43,Full HD,64,13,16999
+556,samsung,m21 2021 edition ,4,64,6.4,Display,48,48,13090
+557,infinix,note 11 ,6,128,6.7,Full HD,50,16,16999
+558,infinix,note 11 ,4,64,6.7,Full HD,50,16,12499
+560,xiaomi,11lite ne ,8,128,6.55,Full HD,64,20,21470
+561,vivo,y01 ,2,32,6.51,HD,8,5,12999
+562,oppo,f19s ,6,128,6.43,Full HD,48,16,19990
+563,oppo,reno7 5g ,8,256,6.43,Full HD,64,32,28890
+564,samsung,galaxy a03 core ,2,32,6.5,Display,8,8,10499
+565,samsung,galaxy m13 ,4,64,6.6,Display,50,50,10939
+567,oppo,a77s ,8,128,6.56,HD,50,8,16499
+568,samsung,galaxy a34 5g ,8,128,6.6,Full HD,48,13,28999
+571,samsung,galaxy m33 5g ,6,128,6.59,Display,50,50,19999
+572,vivo,y21t ,4,128,6.58,Full HD,50,8,15300
+573,infinix,note 11s free fire edition ,8,128,6.925,Full HD,50,16,15999
+574,vivo,x80 pro ,12,256,6.78,Quad HD,50,32,58200
+575,realme,narzo 50a prime ,4,128,6.6,Display,50,50,12990
+576,nothing,phone ,8,128,6.55,Full HD,50,16,28599
+581,oppo,"f23 5g | 64mp rear triple ai camera | 6.72"" fhd+ 120hz display ",8,256,6.56,Display,64,64,24799
+582,vivo,y21e ,3,64,6.51,Display,13,13,12180
+585,samsung,galaxy m12 ,4,64,6.5,Display,48,48,11444
+587,xiaomi,10i ,8,128,6.67,Full HD,108,16,20490
+591,infinix,note 11s ,6,64,6.925,Full HD,50,16,13999
+593,vivo,t1x ,4,128,6.58,Full HD,50,8,12999
+594,iqoo,z6 lite 5g ,4,64,6.68,Display,50,50,14499
+595,vivo,y12g ,3,64,6.51,HD,13,8,12990
+597,samsung,galaxy a53 ,8,128,6.5,Full HD,64,32,36890
+602,xiaomi,11 lite ,8,128,6.55,Full HD,64,16,23999
+605,redmi,note 11t 5g ,6,128,6.6,Display,50,50,18490
+607,oppo,f21 pro ,8,128,6.43,Display,64,32,20999
+609,realme,narzo 50i ,4,64,6.5,Display,8,5,10499
+611,vivo,v23 pro 5g ,8,128,6.56,Full HD,108,8,34990
+612,samsung,galaxy a04s ,4,64,6.5,HD,50,5,12499
+613,samsung,galaxy z flip5 ,8,512,6.7,Display,12,10,109999
+614,samsung,galaxy a23 5g ,8,128,6.6,Full HD,50,8,23999
+615,oppo,reno10 pro+ 5g ,12,256,6.74,Full HD,50,32,54999
+616,redmi,note 9 ,4,64,6.53,Full HD,48,13,11999
+617,samsung,galaxy s20 fe 5g ,8,128,6.5,Display,12,32,28430
+618,samsung,galaxy f22 ,6,128,6.4,HD,48,13,13499
+619,realme,narzo 50a prime ,4,64,6.6,Full HD,50,8,12499
+620,samsung,a04 e ,4,128,6.5,HD,13,5,11499
+621,samsung,galaxy a03 ,3,32,6.5,HD,48,5,12999
+622,realme,6 pro ,6,64,6.6,Full HD,64,8,16577
+623,samsung,galaxy m13 5g ,6,128,6.5,Display,50,50,14197
+624,redmi,note 10s ,8,128,6.43,Full HD,64,13,16690
+626,nothing,phone ,12,256,6.7,Full HD,50,32,49999
+629,oppo,reno8 5g ,8,128,6.43,Full HD,50,32,29999
+632,infinix,hot 11s ,4,64,6.78,Full HD,50,8,10999
+633,poco,c3 ,4,64,6.53,HD,13,5,10999
+634,vivo,y02 ,3,32,6.51,HD,8,5,10499
+635,vivo,x90 ,8,256,6.78,Full HD,50,32,59999
+636,vivo,x90 ,12,256,6.78,Full HD,50,32,63999
+637,vivo,t1x ,4,128,6.58,Full HD,50,8,16189
+638,samsung,galaxy z flip5 ,8,256,6.7,Display,12,10,99999
+639,redmi,note 10t 5g ,4,64,6.56,Full HD,48,8,14850
+640,motorola,g52 ,6,128,6.6,Full HD,50,16,13999
+641,infinix,zero 5g ,8,128,6.78,Full HD,48,16,19999
+642,realme,9 5g ,4,64,6.5,Full HD,48,16,13999
+643,xiaomi,10t ,8,128,6.67,Display,64,64,22990
+644,realme,c25s ,4,64,6.5,HD,13,8,10499
+645,iqoo,9t 5g ,8,128,6.78,Display,50,50,49499
+646,oppo,a16e ,3,32,6.52,HD,13,5,10990
+647,oppo,a57 ,4,64,6.56,Display,13,13,13799
+648,redmi,10a ,4,64,6.53,Display,13,13,11999
+649,oppo,reno8t 5g ,8,128,6.7,Full HD,108,32,29999
+651,vivo,y53s ,8,128,6.58,Full HD,64,16,19989
+652,poco,x4 pro 5g ,6,128,6.67,Full HD,64,16,19999
+653,redmi,10 ,6,128,6.7,HD,50,5,12990
+654,realme,gt neo 2 ,12,256,6.62,Full HD,64,16,35999
+655,vivo,v23 pro 5g ,12,256,6.56,Full HD,108,8,39990
+656,oppo,a77 ,4,128,6.56,HD,50,8,15999
+658,poco,f4 5g ,8,128,6.67,Full HD,64,20,29999
+662,oppo,a77 ,4,64,6.56,HD,50,8,15499
+663,redmi,9 activ ,6,128,6.53,HD,13,5,11490
+664,vivo,v25 pro 5g ,12,256,6.56,Full HD,64,32,29990
+665,realme,x3 superzoom ,12,256,6.57,Full HD,64,8,34999
+666,vivo,y21a ,4,64,6.51,HD,13,8,13499
+667,vivo,y16 ,3,32,6.51,HD,13,5,11480
+668,redmi,8 ,4,64,6.245,HD,12,8,10999
+669,iqoo,z7s 5g ,6,128,6.38,Display,64,64,19895
+670,redmi,10 ,6,128,6.7,HD,50,5,13999
+671,samsung,galaxy s23 plus 5g ,8,512,6.6,Full HD,50,12,104999
+672,redmi,12c ,4,64,6.71,Display,50,50,10998
+673,redmi,9 prime ,4,64,6.53,Full HD,13,8,10499
+674,xiaomi,10i ,6,128,6.67,Full HD,108,16,19870
+675,xiaomi,10i ,6,128,6.67,Full HD,108,16,18999
+678,poco,m4 pro ,6,128,6.43,Full HD,64,16,16499
+679,samsung,galaxy m13 ,6,128,6.6,Display,50,50,12999
+681,oppo,f21s pro 5g ,8,128,6.43,Full HD,64,16,25999
+683,oppo,a57 ,4,64,6.56,HD,13,8,14289
+684,poco,x3 ,6,64,6.67,Full HD,64,20,19999
+685,vivo,y15c ,3,32,6.51,HD,13,8,14490
+689,realme,c25_y ,4,64,6.5,HD,50,8,10999
+691,redmi,note 10t 5g ,6,128,6.56,Full HD,48,8,16999
+692,redmi,9 activ ,4,64,6.53,Display,13,13,10290
+693,samsung,galaxy m34 5g without charger ,6,128,6.5,Display,50,50,19999
+696,xiaomi,11i hypercharge 5g ,8,128,6.67,Full HD,108,16,22780
+697,oppo,a77 4gb ,4,64,6.56,HD,50,8,14180
+698,vivo,v25 5g ,8,128,6.44,Full HD,64,50,25380
+699,redmi,10a sport ,6,128,6.53,Display,13,13,10749
+700,samsung,galaxy s23 ultra 5g smartphone ,12,256,6.8,Quad HD,200,12,115299
+701,redmi,12c ,6,128,6.71,Display,50,50,11999
+702,iqoo,neo 7 ,12,256,6.78,Full HD,64,16,32622
+705,samsung,galaxy m33 5g ,8,128,6.6,Display,50,50,18699
+707,xiaomi,10t ,6,128,6.67,Full HD,64,20,35999
+711,redmi,note 10 lite ,4,128,6.67,Display,48,48,12790
+712,oppo,reno7 5g ,8,256,6.43,Full HD,64,32,28999
+714,vivo,v21 5g ,8,128,6.44,Full HD,64,44,24990
+715,realme,x7 5g ,8,128,6.43,Full HD,64,16,23999
+716,poco,m3 pro 5g ,6,128,6.5,Full HD,48,8,17999
+717,samsung,galaxy a73 5g ,8,128,6.7,Full HD,108,32,38999
+718,vivo,y15c ,3,64,6.51,HD,13,8,11499
+719,poco,m3 ,4,64,6.53,Full HD,48,8,10930
+720,motorola,g31 ,6,128,6.4,Full HD,50,13,13999
+721,poco,x4 pro 5g ,6,64,6.67,Full HD,64,16,22999
+722,redmi,10 prime 2022 ,4,64,6.5,Display,8,8,12989
+723,oppo,a17k ,3,64,6.56,HD,8,5,10299
+724,poco,f4 5g ,12,256,6.67,Full HD,64,20,33999
+726,vivo,y15s ,3,32,6.51,HD,13,8,11499
+727,vivo,y15s ,3,32,6.51,Display,13,13,11090
+729,samsung,galaxy a14 ,4,128,6.6,Full HD,50,13,14999
+730,xiaomi,11x pro 5g ,8,128,6.67,Full HD,108,20,34999
+731,samsung,galaxy m32 ,4,64,6.4,Display,64,64,13490
+732,xiaomi,11x pro 5g ,8,128,6.67,Full HD,108,20,29990
+733,oppo,a17k ,3,64,6.56,HD,8,5,10199
+734,redmi,note 7s ,4,64,6.3,Display,48,48,12490
+736,redmi,note 9 ,4,64,6.53,Full HD,48,13,11499
+737,redmi,11 prime 5g ,4,64,6.58,Display,50,50,14499
+738,redmi,10 prime ,6,128,6.5,Display,8,8,16999
+739,vivo,x90 pro ,12,256,6.78,Full HD,50,32,84999
+740,vivo,y15s ,3,32,6.51,HD,13,8,10990
+741,motorola,g84 5g ,12,256,6.55,Full HD,50,16,19999
+742,oppo,a16 ,4,64,6.52,HD,13,8,12990
+743,redmi,note 10 pro ,6,128,6.67,Display,64,64,19999
+748,realme,gt neo 2 ,8,128,6.62,Full HD,64,16,31999
+753,realme,x7 pro 5g ,8,128,6.55,Full HD,64,32,29999
+755,redmi,note 9 ,4,128,6.53,Full HD,48,13,16350
+757,samsung,m53 5g ,6,128,6.7,Display,108,108,23390
+758,xiaomi,11i hypercharge 5g ,6,128,6.67,Full HD,108,16,26999
+759,realme,narzo 50a prime ,4,64,6.6,Full HD,50,8,10499
+761,samsung,galaxy a33 ,8,128,6.4,Full HD,48,13,29890
+762,redmi,note 11 ,6,128,6.43,Display,50,50,19999
+763,redmi,10 prime ,6,128,6.5,Full HD,50,8,14999
+764,redmi,note 10t 5g ,4,64,6.56,Full HD,48,8,14999
+765,oppo,reno8 pro 5g - house of the dragon ,12,256,6.7,Full HD,50,32,45999
+766,iqoo,9 pro 5g ,8,256,6.78,Full HD,50,16,44990
+767,xiaomi,10t ,8,128,6.67,Full HD,64,20,37999
+768,samsung,galaxy a04e ,3,64,6.5,HD,13,5,10299
+769,samsung,galaxy s21 fe 5g ,8,128,6.4,Full HD,12,32,39999
+771,redmi,note 10s ,8,128,6.43,Full HD,64,13,18400
+772,vivo,t1x ,6,128,6.58,Full HD,50,8,18490
+773,samsung,galaxy z flip3 5g ,8,128,6.7,Full HD,12,10,49999
+775,samsung,galaxy s20 fe ,8,128,6.5,Full HD,12,32,74999
+776,vivo,y75 5g ,8,128,6.58,Full HD,50,16,23990
+778,vivo,v23e 5g ,8,128,6.44,Full HD,50,44,24890
+779,samsung,galaxy m13 5g ,6,128,6.5,Display,50,50,14598
+780,samsung,galaxy f12 ,4,64,6.515,HD,48,8,10499
+782,redmi,note 9 ,4,128,6.53,Full HD,48,13,11499
+783,realme,c21 ,4,64,6.5,HD,13,5,10499
+784,samsung,galaxy s23 5g ,8,128,6.245,Full HD,50,12,74999
+785,motorola,g9 power ,4,64,6.78,HD,64,16,11999
+787,redmi,note 7s ,4,64,6.3,Full HD,48,13,11990
+789,redmi,note 9 ,4,128,6.53,Full HD,48,48,15350
+791,xiaomi,11lite ne ,8,128,6.55,Display,64,64,21990
+792,xiaomi,11lite ne ,8,128,6.55,Display,64,64,21489
+793,xiaomi,11lite ne ,6,128,6.55,Display,64,64,20490
+794,xiaomi,11lite ne ,6,128,6.55,Full HD,64,20,22490
+796,redmi,note 9 pro ,4,64,6.67,Full HD,48,16,13999
+798,poco,m3 ,6,128,6.53,Full HD,48,8,14999
+799,redmi,note 9 pro max ,8,128,6.67,Full HD,64,32,22990
+800,motorola,g32 ,4,64,6.5,Full HD,50,16,10999
+802,xiaomi,11lite ne ,6,128,6.55,Display,64,64,20990
+803,vivo,v25 5g ,12,256,6.44,Full HD,64,50,32399
+804,poco,x3 pro ,6,128,6.67,Full HD,48,20,23999
+805,oppo,a16e ,4,64,6.52,HD,13,5,15990
+806,oppo,k10 ,6,128,6.59,Full HD,50,16,18999
+807,redmi,11 prime 5g ,4,64,6.58,Display,50,50,13989
+809,redmi,note 10 lite ,4,64,6.67,Display,48,48,12990
+811,vivo,x60 ,12,256,6.56,Full HD,48,32,46990
+812,redmi,note 11t 5g ,6,128,6.6,Display,50,50,18290
+814,realme,7 ,8,128,6.5,Full HD,64,16,20999
+815,samsung,galaxy a73 5g ,8,256,6.7,Full HD,108,32,41999
+816,samsung,galaxy a23 ,8,128,6.6,Full HD,50,8,18899
+817,poco,m2 ,6,128,6.53,Full HD,13,8,12490
+818,xiaomi,11t pro 5g hyperphone ,8,256,6.67,Display,108,108,31999
+819,redmi,note 10 pro ,6,128,6.67,Full HD,64,16,17999
+820,realme,8 ,8,128,6.4,Full HD,64,16,15499
+822,realme,8 ,4,128,6.4,Full HD,64,16,13499
+824,vivo,v25 5g ,12,256,6.44,Full HD,64,50,27500
+825,realme,narzo 30 5g ,6,128,6.5,Full HD,48,16,16999
+826,samsung,galaxy a04 ,4,64,6.5,HD,50,5,11999
+827,samsung,galaxy m53 5g ,8,128,6.7,Display,108,108,28569
+828,samsung,galaxy a04e ,4,128,6.5,HD,13,5,11499
+829,xiaomi,11x pro 5g ,8,128,6.67,Full HD,108,20,26048
+830,vivo,y73 ,8,128,6.44,Full HD,64,16,19500
+832,vivo,x80 ,12,256,6.78,Full HD,50,32,49990
+833,vivo,t1x ,6,128,6.58,Full HD,50,8,16499
+834,realme,2 pro ,6,64,6.3,Full HD,16,16,13999
+835,realme,x7 5g ,6,128,6.43,Full HD,64,16,19999
+836,motorola,edge 30 ,6,128,6.55,Full HD,50,32,24999
+837,realme,narzo 50a prime ,4,128,6.6,Display,50,50,11499
+838,redmi,9 activ ,4,64,6.53,Display,13,13,10999
+839,realme,2 pro ,4,64,6.3,Full HD,16,16,13990
+840,samsung,m32 5g ,6,128,6.5,HD,48,13,16990
+849,samsung,galaxy a03s ,3,32,6.5,HD,13,5,11499
+850,samsung,galaxy s23 5g ,8,256,6.245,Full HD,50,12,79999
+851,realme,8i ,4,64,6.6,Full HD,50,16,11499
+853,motorola,g52 ,4,64,6.6,Full HD,50,16,11249
+854,vivo,v25 5g ,8,128,6.44,Full HD,64,50,32999
+859,samsung,galaxy a23 ,6,128,6.6,Full HD,50,8,18499
+860,samsung,galaxy a33 ,6,128,6.4,Full HD,48,13,24990
+861,realme,8i ,6,128,6.6,Full HD,50,16,17999
+862,samsung,galaxy m13 5g ,6,128,6.5,Display,50,50,14990
+863,redmi,10a ,4,64,6.53,Display,13,13,10500
+866,vivo,v27 ,8,128,6.78,Full HD,50,50,32500
+873,redmi,10a ,3,32,6.53,Display,13,13,10999
+875,poco,f4 5g ,6,128,6.67,Full HD,64,20,27999
+876,poco,m3 pro 5g ,4,64,6.5,Full HD,48,8,12990
+877,realme,9 5g ,4,64,6.5,Full HD,48,16,16999
+878,oppo,a76 ,6,128,6.56,HD,13,8,16890
+879,redmi,8 ,4,64,6.245,HD,12,8,11990
+882,samsung,galaxy m32 ,6,128,6.4,Display,64,64,14990
+883,redmi,11 prime 5g ,4,64,6.58,Display,50,50,14450
+885,redmi,11 pro plus 5g ,8,256,6.67,Display,108,108,26098
+888,iqoo,z6 44w ,6,128,6.44,Display,50,16,16895
+889,samsung,galaxy a03 core ,2,32,6.5,HD,8,5,10490
+892,samsung,galaxy a04 ,4,128,6.5,HD,50,5,12940
+893,realme,x2 pro ,12,256,6.5,Full HD,64,16,24999
+894,oppo,a38 ,4,128,6.56,HD,50,5,12999
+896,samsung,galaxy a12 ,6,128,6.5,HD,48,8,12990
+897,poco,x3 pro ,8,128,6.67,Full HD,48,20,25999
+898,vivo,y21e ,3,64,6.51,Display,13,13,13599
+900,samsung,galaxy a03 core ,2,32,6.5,HD,8,5,10499
+901,infinix,note 12 turbo ,8,128,6.7,Full HD,50,16,14999
+902,vivo,v25 pro ,8,128,6.56,Full HD,64,32,27990
+903,xiaomi,11x 5g ,6,128,6.67,Display,48,48,21970
+904,oppo,a16e ,3,32,6.52,HD,13,5,11990
+905,redmi,note 10 pro max ,6,128,6.67,Full HD,108,16,19999
+909,realme,8 ,6,128,6.4,Full HD,64,16,14499
+910,realme,x2 pro ,8,128,6.5,Full HD,64,16,21825
+911,moto,g8 plus ,4,64,6.3,Full HD,48,25,15999
+912,vivo,y33t ,8,128,6.58,Full HD,50,16,22990
+916,redmi,9 power ,4,64,6.53,Full HD,48,8,13000
+917,samsung,galaxy s22 5g ,8,128,6.245,Display,50,50,53499
+918,redmi,note 11s ,8,128,6.43,Display,108,108,16999
+919,redmi,note 11s ,8,128,6.43,Display,108,108,21999
+920,samsung,galaxy s23 ultra 5g ,12,256,6.8,Quad HD,200,12,124999
+921,samsung,galaxy f12 ,4,128,6.515,HD,48,8,11499
+923,motorola,edge 20 fusion 5g ,8,128,6.67,Full HD,108,32,20999
+924,poco,m4 pro ,6,64,6.43,Full HD,64,16,14999
+925,samsung,galaxy s22 ultra 5g ,12,256,6.8,Quad HD,108,40,96999
+926,vivo,y100 5g ,8,128,6.38,Full HD,64,16,24999
+927,motorola,g40 fusion ,6,128,6.78,Full HD,64,16,12999
+929,iqoo,9t 5g ,8,128,6.78,Display,50,50,44999
+930,vivo,y51a ,8,128,6.58,Full HD,48,16,19389
+931,realme,x3 superzoom ,8,128,6.57,Full HD,64,8,23990
+932,realme,x3 superzoom ,12,256,6.57,Full HD,64,8,25990
+933,realme,x3 superzoom ,8,256,6.57,Full HD,64,8,23990
+934,redmi,note 11t 5g ,8,128,6.6,Display,50,50,19490
+936,samsung,galaxy a04e ,3,64,6.5,HD,13,5,10199
+937,redmi,note 9 pro max ,6,64,6.67,Full HD,64,32,16999
+938,redmi,note 11t 5g ,8,128,6.6,Display,50,50,18900
+939,redmi,note 11 ,4,64,6.43,Display,50,50,12350
+942,oppo,a17k ,3,64,6.56,Display,8,5,12999
+943,oppo,reno7 pro 5g ,12,256,6.5,Full HD,50,32,34999
+944,realme,gt master edition ,8,128,6.43,Full HD,64,32,23999
+945,xiaomi,11t pro 5g hyperphone ,8,128,6.67,Display,108,108,30980
+946,realme,c25 ,4,128,6.5,HD,13,8,10999
+947,samsung,galaxy a13 ,6,128,6.6,Full HD,50,8,15990
+948,samsung,galaxy a53 ,8,256,6.5,Full HD,64,32,34990
+949,samsung,galaxy a03 core ,2,32,6.5,HD,8,5,10400
+950,samsung,galaxy m11 ,4,64,6.4,HD,13,8,13990
+951,vivo,100a ,8,128,6.38,Full HD,64,16,23899
+952,samsung,galaxy z flip3 5g ,8,128,6.7,Full HD,12,12,49999
+953,infinix,hot 10s ,6,64,6.82,HD,48,8,10200
+954,oppo,f19 pro ,8,256,6.43,Full HD,48,16,18990
+956,samsung,galaxy a33 ,8,128,6.4,Full HD,48,13,27899
+958,oppo,reno6 5g ,8,128,6.43,Full HD,64,32,29990
+959,samsung,galaxy m33 5g ,6,128,6.6,Display,50,50,18999
+962,oppo,f19 pro ,8,128,6.43,Full HD,48,16,17990
+964,realme,c15 qualcomm edition ,3,32,6.52,HD,13,8,11999
+965,samsung,galaxy z flip4 5g ,8,256,6.7,Full HD,12,10,94999
+966,oppo,find n2 flip ,8,256,6.8,Full HD,50,32,89999
+968,samsung,galaxy a03 ,4,64,6.5,HD,48,5,11499
+969,samsung,galaxy f62 ,8,128,6.7,Full HD,64,32,25999
+970,motorola,edge 20 fusion 5g ,6,128,6.67,Full HD,108,32,18999
+971,samsung,galaxy a21s ,4,64,6.5,HD,48,13,17999
+972,samsung,galaxy a03s ,4,64,6.5,HD,13,5,10346
+973,samsung,galaxy a31 ,6,128,6.4,Full HD,48,20,16999
+974,vivo,y21e ,3,64,6.51,Display,13,13,12300
+975,motorola,g60 ,6,128,6.8,Full HD,108,32,14999
+976,iqoo,9t 5g ,8,128,6.78,Display,50,50,42990
+977,oppo,reno8 5g ,8,128,6.43,Full HD,50,32,38999
+978,realme,c21 ,4,64,6.5,HD,13,5,10290
+979,redmi,note 10t 5g ,4,64,6.56,Full HD,48,8,16999
+980,samsung,galaxy m12 ,4,64,6.5,Display,48,48,13000
+982,moto,g 5g ,6,128,6.67,Full HD,48,16,24999
+983,poco,x3 ,6,128,6.67,Full HD,64,20,20999
+986,motorola,g51 5g ,4,64,6.8,Full HD,50,13,14999
+992,realme,6 ,4,64,6.5,Full HD,64,16,13999
+997,redmi,note 11t 5g ,6,64,6.6,Display,50,50,17490
+1000,samsung,a04 e ,3,64,6.5,HD,13,5,10600
+1004,samsung,galaxy a13 ,4,64,6.6,Full HD,50,8,15900
+1005,xiaomi,10t pro ,8,128,6.67,Full HD,108,20,47999
+1007,motorola,edge 30 ultra ,8,128,6.67,Full HD,200,60,54999
